@@ -1,1 +1,2 @@
-# Actividad-2-El-mensaje-interestelar
+# Lista de invitados
++ Jean Blanchet Aoyama
