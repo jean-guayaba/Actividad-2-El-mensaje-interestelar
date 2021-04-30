@@ -1,5 +1,6 @@
 # Lista de invitados
-+ Jean Blanchet 
++ Jean Blanchet
+    * Mi nombre secreto es Yang Guayaba
 + Gerardo Cervantes Villegas
     * Mi nombre secreto es Gerax
 + del Valle Vera Nancy Elena
