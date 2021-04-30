@@ -1,2 +1,4 @@
 # Lista de invitados
-+ Jean Blanchet Aoyama
++ Jean Blanchet 
+
++ Gerardo Cervantes Villegas
