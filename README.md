@@ -1,3 +1,5 @@
 # Lista de invitados
 + Jean Blanchet Aoyama
-  * Mi nombre secreto es Yang Guayaba
++ del Valle Vera Nancy Elena
+
+
